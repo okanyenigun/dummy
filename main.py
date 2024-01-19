@@ -1,0 +1,2 @@
+class MainFeature:
+    pass
